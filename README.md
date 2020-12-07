@@ -1,6 +1,6 @@
 # Simplified Implementation of Spark in Go
 
-# by Brandon Chen, Nathan Lui, and Ziwei Wu
+by Brandon Chen, Nathan Lui, and Ziwei Wu
 
 A simplified implementation of Spark in the Go language. 
 
